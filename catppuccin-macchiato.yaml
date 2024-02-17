@@ -1,0 +1,13 @@
+# macchiato
+[theme]
+prompt             = { fg = "#a6da95", attrs = "bold" }
+input              = { fg = "#cad3f5" }
+entry_name         = { fg = "#cad3f5" }
+entry_value        = { fg = "#8087a2" }
+entry_match        = { fg = "#7dc4e4", attrs = "bold" }
+entry_hidden       = { fg = "#494d64" }
+entry_cursor       = { fg = "#24273a", bg = "#7dc4e4", attrs = "bold" }
+entry_cursor_match = { fg = "#24273a", bg = "#8bd5ca", attrs = "bold" }
+menu_name          = { fg = "#ed8796" }
+menu_cursor        = { fg = "#24273a", bg = "#ed8796", attrs = "bold" }
+overflow           = { fg = "#eed49f", attrs = "bold" }

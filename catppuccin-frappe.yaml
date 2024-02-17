@@ -1,0 +1,13 @@
+# frappe
+[theme]
+prompt             = { fg = "#a6d189", attrs = "bold" }
+input              = { fg = "#c6d0f5" }
+entry_name         = { fg = "#c6d0f5" }
+entry_value        = { fg = "#838ba7" }
+entry_match        = { fg = "#85c1dc", attrs = "bold" }
+entry_hidden       = { fg = "#51576d" }
+entry_cursor       = { fg = "#303446", bg = "#85c1dc", attrs = "bold" }
+entry_cursor_match = { fg = "#303446", bg = "#81c8be", attrs = "bold" }
+menu_name          = { fg = "#e78284" }
+menu_cursor        = { fg = "#303446", bg = "#e78284", attrs = "bold" }
+overflow           = { fg = "#e5c890", attrs = "bold" }

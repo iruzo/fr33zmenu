@@ -1,0 +1,13 @@
+# latte
+[theme]
+prompt             = { fg = "#40a02b", attrs = "bold" }
+input              = { fg = "#4c4f69" }
+entry_name         = { fg = "#4c4f69" }
+entry_value        = { fg = "#8c8fa1" }
+entry_match        = { fg = "#209fb5", attrs = "bold" }
+entry_hidden       = { fg = "#bcc0cc" }
+entry_cursor       = { fg = "#eff1f5", bg = "#209fb5", attrs = "bold" }
+entry_cursor_match = { fg = "#eff1f5", bg = "#179299", attrs = "bold" }
+menu_name          = { fg = "#d20f39" }
+menu_cursor        = { fg = "#eff1f5", bg = "#d20f39", attrs = "bold" }
+overflow           = { fg = "#df8e1d", attrs = "bold" }
